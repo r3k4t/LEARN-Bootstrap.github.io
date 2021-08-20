@@ -1,0 +1,44 @@
+.container{
+    border:3px soild blue;
+    padding:10px;
+  
+}
+.mynavbar{
+
+    background-color:red;
+}
+
+.container-fluid{
+    border:3px soild red;
+    padding:10px;
+
+}
+.col{
+    border: 3px solid red;
+}
+.col-1{
+    border: 3px solid red;
+}
+.col-3{
+    border: 3px solid red;
+}
+.col-8{
+    border: 3px solid red;
+}
+.col-4{
+    border: 3px solid red;
+}
+.col-5{
+    border: 3px solid red;
+}
+
+
+.col-7{
+    border: 3px solid red;
+}
+ /* When Bootstrap class is modify and our background color is not work and In this time you can do it.
+
+ .navbar-light{
+
+    background-color: auqa!important;
+}  */
